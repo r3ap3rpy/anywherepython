@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.py
+anywherepython/__init__.py
+anywherepython/anywherepython.py
+anywherepython.egg-info/PKG-INFO
+anywherepython.egg-info/SOURCES.txt
+anywherepython.egg-info/dependency_links.txt
+anywherepython.egg-info/not-zip-safe
+anywherepython.egg-info/requires.txt
+anywherepython.egg-info/top_level.txt
