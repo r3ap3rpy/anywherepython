@@ -1,4 +1,4 @@
 build
 dist
 __pycache__
-anywherepython.egg-info
+*.egg-info
